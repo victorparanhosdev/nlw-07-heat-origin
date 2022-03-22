@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="foto-nlw" src="./fotos/nlw-heat.png" width="90%">
+  <img alt="foto-nlw" src="./images/nlw-heat.png" width="90%">
 </p>
 
 ## 🚀 Tecnologias
@@ -39,7 +39,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
 ---
 
