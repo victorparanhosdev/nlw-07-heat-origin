@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".fotos/nlw-heat.png" width="90%">
+  <img alt="foto-nlw" src="./fotos/nlw-heat.png" width="90%">
 </p>
 
 ## 🚀 Tecnologias
